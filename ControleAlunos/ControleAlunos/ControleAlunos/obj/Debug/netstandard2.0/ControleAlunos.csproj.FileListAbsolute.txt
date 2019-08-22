@@ -1,0 +1,12 @@
+C:\controle-alunos\ControleAlunos\ControleAlunos\ControleAlunos\bin\Debug\netstandard2.0\ControleAlunos.deps.json
+C:\controle-alunos\ControleAlunos\ControleAlunos\ControleAlunos\bin\Debug\netstandard2.0\ControleAlunos.dll
+C:\controle-alunos\ControleAlunos\ControleAlunos\ControleAlunos\bin\Debug\netstandard2.0\ControleAlunos.pdb
+C:\controle-alunos\ControleAlunos\ControleAlunos\ControleAlunos\obj\Debug\netstandard2.0\ControleAlunos.csprojAssemblyReference.cache
+C:\controle-alunos\ControleAlunos\ControleAlunos\ControleAlunos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\controle-alunos\ControleAlunos\ControleAlunos\ControleAlunos\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\controle-alunos\ControleAlunos\ControleAlunos\ControleAlunos\obj\Debug\netstandard2.0\ControleAlunos.csproj.CoreCompileInputs.cache
+C:\controle-alunos\ControleAlunos\ControleAlunos\ControleAlunos\obj\Debug\netstandard2.0\ControleAlunos.AssemblyInfoInputs.cache
+C:\controle-alunos\ControleAlunos\ControleAlunos\ControleAlunos\obj\Debug\netstandard2.0\ControleAlunos.AssemblyInfo.cs
+C:\controle-alunos\ControleAlunos\ControleAlunos\ControleAlunos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\controle-alunos\ControleAlunos\ControleAlunos\ControleAlunos\obj\Debug\netstandard2.0\ControleAlunos.dll
+C:\controle-alunos\ControleAlunos\ControleAlunos\ControleAlunos\obj\Debug\netstandard2.0\ControleAlunos.pdb
