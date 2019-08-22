@@ -1,0 +1,145 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\controle-alunos\\ControleAlunos\\ControleAlunos\\ControleAlunos.Android\\ControleAlunos.Android.csproj": {}
+  },
+  "projects": {
+    "C:\\controle-alunos\\ControleAlunos\\ControleAlunos\\ControleAlunos.Android\\ControleAlunos.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\controle-alunos\\ControleAlunos\\ControleAlunos\\ControleAlunos.Android\\ControleAlunos.Android.csproj",
+        "projectName": "ControleAlunos.Android",
+        "projectPath": "C:\\controle-alunos\\ControleAlunos\\ControleAlunos\\ControleAlunos.Android\\ControleAlunos.Android.csproj",
+        "packagesPath": "C:\\Users\\daniela.rocha\\.nuget\\packages\\",
+        "outputPath": "C:\\controle-alunos\\ControleAlunos\\ControleAlunos\\ControleAlunos.Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daniela.rocha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {
+              "C:\\controle-alunos\\ControleAlunos\\ControleAlunos\\ControleAlunos\\ControleAlunos.csproj": {
+                "projectPath": "C:\\controle-alunos\\ControleAlunos\\ControleAlunos\\ControleAlunos\\ControleAlunos.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Prism.DryIoc.Forms": {
+              "target": "Package",
+              "version": "[7.1.0.431, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[27.0.2.1, )"
+            },
+            "Xamarin.Android.Support.v4": {
+              "target": "Package",
+              "version": "[27.0.2.1, )"
+            },
+            "Xamarin.Android.Support.v7.AppCompat": {
+              "target": "Package",
+              "version": "[27.0.2.1, )"
+            },
+            "Xamarin.Android.Support.v7.CardView": {
+              "target": "Package",
+              "version": "[27.0.2.1, )"
+            },
+            "Xamarin.Android.Support.v7.MediaRouter": {
+              "target": "Package",
+              "version": "[27.0.2.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[3.2.0.839982, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\controle-alunos\\ControleAlunos\\ControleAlunos\\ControleAlunos\\ControleAlunos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\controle-alunos\\ControleAlunos\\ControleAlunos\\ControleAlunos\\ControleAlunos.csproj",
+        "projectName": "ControleAlunos",
+        "projectPath": "C:\\controle-alunos\\ControleAlunos\\ControleAlunos\\ControleAlunos\\ControleAlunos.csproj",
+        "packagesPath": "C:\\Users\\daniela.rocha\\.nuget\\packages\\",
+        "outputPath": "C:\\controle-alunos\\ControleAlunos\\ControleAlunos\\ControleAlunos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daniela.rocha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Prism.DryIoc.Forms": {
+              "target": "Package",
+              "version": "[7.1.0.431, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[3.2.0.839982, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
