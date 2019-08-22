@@ -1,0 +1,14 @@
+C:\Users\daniela.rocha\source\repos\ControleAlunos\ControleAlunos\ControleAlunos\bin\Debug\netstandard2.0\ControleAlunos.deps.json
+C:\Users\daniela.rocha\source\repos\ControleAlunos\ControleAlunos\ControleAlunos\bin\Debug\netstandard2.0\ControleAlunos.dll
+C:\Users\daniela.rocha\source\repos\ControleAlunos\ControleAlunos\ControleAlunos\bin\Debug\netstandard2.0\ref\ControleAlunos.dll
+C:\Users\daniela.rocha\source\repos\ControleAlunos\ControleAlunos\ControleAlunos\bin\Debug\netstandard2.0\ControleAlunos.pdb
+C:\Users\daniela.rocha\source\repos\ControleAlunos\ControleAlunos\ControleAlunos\obj\Debug\netstandard2.0\ControleAlunos.csprojAssemblyReference.cache
+C:\Users\daniela.rocha\source\repos\ControleAlunos\ControleAlunos\ControleAlunos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\daniela.rocha\source\repos\ControleAlunos\ControleAlunos\ControleAlunos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\daniela.rocha\source\repos\ControleAlunos\ControleAlunos\ControleAlunos\obj\Debug\netstandard2.0\ControleAlunos.csproj.CoreCompileInputs.cache
+C:\Users\daniela.rocha\source\repos\ControleAlunos\ControleAlunos\ControleAlunos\obj\Debug\netstandard2.0\ControleAlunos.AssemblyInfoInputs.cache
+C:\Users\daniela.rocha\source\repos\ControleAlunos\ControleAlunos\ControleAlunos\obj\Debug\netstandard2.0\ControleAlunos.AssemblyInfo.cs
+C:\Users\daniela.rocha\source\repos\ControleAlunos\ControleAlunos\ControleAlunos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\daniela.rocha\source\repos\ControleAlunos\ControleAlunos\ControleAlunos\obj\Debug\netstandard2.0\ControleAlunos.dll
+C:\Users\daniela.rocha\source\repos\ControleAlunos\ControleAlunos\ControleAlunos\obj\Debug\netstandard2.0\ref\ControleAlunos.dll
+C:\Users\daniela.rocha\source\repos\ControleAlunos\ControleAlunos\ControleAlunos\obj\Debug\netstandard2.0\ControleAlunos.pdb
